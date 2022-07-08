@@ -1,0 +1,22 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "NPM Mocule Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiroyone/number-formatter.git"
+  },
+  "keywords": [
+    "formatter"
+  ],
+  "author": "hiroyone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiroyone/number-formatter/issues"
+  },
+  "homepage": "https://github.com/hiroyone/number-formatter#readme"
+}
